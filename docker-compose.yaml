@@ -1,0 +1,4 @@
+version: "3"
+services:
+  meme-studio:
+    image: ghcr.io/poeschl/meme-studio:latest
