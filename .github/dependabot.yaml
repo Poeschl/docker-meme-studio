@@ -4,3 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    groups:
+      GH actions:
+        dependency-type: production
