@@ -5,7 +5,10 @@ Since I use only container images for my self-hosted services, this repository a
 
 ## Usage
 
-//TBD
+The image is only available with the `latest` tag. It can be used with podman like so `podman run --rm -p 8080:3000 ghcr.io/poeschl/meme-studio:latest`.
+This command will make the meme-studio available on your current machine at port `8080`.
+
+For a hosted variant a `docker-compose.yaml` is included, but basically just add a service with the image and start up your docker or podman compose.
 
 ## Thanks
 
