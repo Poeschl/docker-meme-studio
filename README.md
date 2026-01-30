@@ -1,3 +1,9 @@
+# 🕸️ Archived
+This repository is archived and not maintained anymore.
+As replacement, I suggest to use the online meme studio at https://www.meme-studio.io.
+
+----
+
 # Dockerized Meme Studio
 
 The last days I found the [Meme Studio](https://github.com/viclafouch/meme-studio) application from @viclafouch and I wanted a self-hosted version of it.
